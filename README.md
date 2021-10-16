@@ -18,4 +18,4 @@ infatti il hosting è direttamente su github.io, se ti interessa clicca il [link
 
 ```laaouatni.github.io/fcc0```
 
-[1]: https://laaouatni.github.io/Laaouatni/fcc0/
+[1]: https://laaouatni.github.io/fcc0/
