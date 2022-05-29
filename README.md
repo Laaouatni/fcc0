@@ -25,3 +25,6 @@ infatti il hosting è direttamente su github.io, se ti interessa clicca il [link
 ![5](https://user-images.githubusercontent.com/87947051/146673013-3817396f-d2ee-4958-bd3f-9b3514eb155a.png)
 
 [1]: https://laaouatni.github.io/fcc0/
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=fcc0)
